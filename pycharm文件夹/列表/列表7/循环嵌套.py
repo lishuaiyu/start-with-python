@@ -8,3 +8,4 @@ for x in range(10):
             if y % 3 == 0:
                 _.append([x,y])
 print(_)
+print(("i love"))
